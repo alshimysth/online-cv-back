@@ -3,7 +3,6 @@ package com.example.online_cv_server.api.skills;
 import java.util.List;
 
 import com.example.online_cv_server.NotFoundException;
-import com.example.online_cv_server.entities.Projects;
 import com.example.online_cv_server.entities.Skills;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
