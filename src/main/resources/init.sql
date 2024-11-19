@@ -1,4 +1,8 @@
+-- Create the database
 CREATE DATABASE online_cv;
+
+-- Connect to the database (use \c online_cv in PostgreSQL CLI or connect separately in a GUI like pgAdmin)
+\c online_cv
 
 -- Table: User
 CREATE TABLE "User" (
